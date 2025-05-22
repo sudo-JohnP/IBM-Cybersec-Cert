@@ -24,4 +24,7 @@ I will be using this Repo to document my journey as I complete the *IBM SkillsBu
   SIEM Systems
 
 ## Repo Layout:
-  TBD
+  | Folder        | Description |
+|---------------|-------------|
+| `/Microcredential`    | Notes and reflections from each course module |
+| `/Projects`   | Capstone write-ups, diagrams, and documentation |
