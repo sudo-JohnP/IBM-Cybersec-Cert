@@ -1,1 +1,23 @@
 Notes for Module 1: Data and Privacy
+
+Learning Objectives... Be able to:
+  - Determine ways the 3 key elements of cybersec apply to common tasks
+  - Categorize sensitive data types
+  - Apply CIA Triad to real-world situations
+  - Apply file and drive encryption
+  - Develop a backup plan
+
+3 Key Elements of Cybersecurity:
+  - People -- Security measures are only as good as the people they protect! Training is key to ensure people practice safe habits
+  - Processes -- Standard Operating Procedures should provide clear and easy-to-access security measures that are standard to follow throughout daily tasks
+  - Technology -- Technology choices such as firewalls, password reqs, VPN usage, etc, directly impacts security of information 
+
+Data Types:
+  - Public -- Anyone can access, redistribute
+  - Confidential -- Any data protected from unauthorized access
+    - Proprietary -- Company owned/generated; ex: trade secrets, R&D, etc
+    - Private -- Data about a person and their private life
+      - PII -- Personally identifiable information; bdays, ID #'s, financial/health/education history
+      - PHI -- Protected health information; diagnoses, test results, etc -- Also includes PII on file
+
+
