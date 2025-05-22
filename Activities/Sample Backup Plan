@@ -7,6 +7,7 @@ Activity -- Create a sample backup plan
 
 Guided Steps:
 Step 1
+  Imagine that you’re working in the IT department for a large retail franchise and have a team of 20 experts. Your supervisor tasks you with developing a backup plan. 
   Identify the person, team, or device that will complete backups. For this activity, you have three choices:
     • Store manager
     • IT team
@@ -32,6 +33,28 @@ Step 5
   Determine when your company should perform backups: daily, weekly, or a combination of both.
 
 ***Full Backup Plan Response:
+
+Who should complete the backups:
+  In this scenario, I would suggest an automated backup system, considering the IT expertise available to implement and troubleshoot. An automated process would
+  be ideal for a large firm from a time commitment standpoint. The IT team would need to dedicate a member or group to check the system. Since backups are important
+  and need to be constantly happening in a large firm, they should verify backups every 3-5 minutes. However, this verification process should be automated with an
+  alert feature for when backups are not happening correctly.
+
+Types of data that should be backed up and an example of each:
+  - Employee records -- Employee contracts and PII should be backed up; legal protections
+  - Financial records -- Any tax and accounting related data should be backed up; for backtracking purposes
+  - Customer records -- Customer feedback should be backed up; can be looked back on for progress/reflection purposes
+  - Business documentation -- Inventory reports should be backed up; used to support supply chain managers
+  - IP -- Should always be backed up; can be essential to business operations; can be necessary for lawsuit
+  - System data -- Must backup configuration data, updates, etc; necessary to support IT troubleshooting efforts
+
+Type of backup recommended:
+
+
+
+
+
+
 
 
 
