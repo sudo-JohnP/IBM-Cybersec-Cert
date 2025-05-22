@@ -19,5 +19,7 @@ Data Types:
     - Private -- Data about a person and their private life
       - PII -- Personally identifiable information; bdays, ID #'s, financial/health/education history
       - PHI -- Protected health information; diagnoses, test results, etc -- Also includes PII on file
+This data, when unprotected, can lead to Financial, Operational, and Reputational damages.
+To protect data by good measure, companies can refer to widely recognize standards such as GAPP -- Generally Accepted Privacy Principles.
 
 
