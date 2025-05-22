@@ -43,6 +43,10 @@ Encryption:
 Symmetric encryption -- single private key for both encryption/decryption; can be vulnerable to attacks through key interception; AES
 Asymmetric encryption -- Involves public/private key pair; slower than symmetric but more secure; RSA
 
+Backups:
+  - Statistics show data loss to be incredibly common
+    - 113 phones stolen/lost per minute, 30% of computers compromised with malware, 98% of stolen laptops are never found
+  - Backups are needed for many purposes such as compliance, protection against employee error, disaster recovery, and storage
 
 
 
