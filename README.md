@@ -1,6 +1,6 @@
 #  IBM SkillsBuild Cybersecurity Certificate - Learning Journey
 
-I will be using this Repo to document my journey as I complete the *IBM SkillsBuild Cybersecurity Certificate*
+I will be using this as a space to document my journey as I complete the *IBM SkillsBuild Cybersecurity Certificate*
 
 ## In this space I will: 
   - Capture notes
