@@ -38,6 +38,13 @@ DLP System Types:
   - Cloud DLP -- Extension of Network DLP; Detects/Encrypts sensitive data before it is stored in the cloud
   - Endpoint DLP -- Monitors all endpoint devices for data loss and leakage 
 
+Encryption:
+  - Turning human readible plaintext into an encrypted ciphertext form
+Symmetric encryption -- single private key for both encryption/decryption; can be vulnerable to attacks through key interception; AES
+Asymmetric encryption -- Involves public/private key pair; slower than symmetric but more secure; RSA
+
+
+
 
 
 
