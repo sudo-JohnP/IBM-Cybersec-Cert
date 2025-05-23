@@ -54,16 +54,9 @@ Type of backup recommended:
   backups. 
 
 Backup storage:
+  Using the 3-2-1 method, the primary backup should be done with hard disk drives and onsite. There should be secondary backups both on site using tapes and
+  offsite through the cloud. 
 
-
-
-
-
-
-
-
-
-
-
-
+Timing of backups:
+  Since a large retail company has tons of data to backup, I would suggest weekly full backups with daily incremental backups.
 
