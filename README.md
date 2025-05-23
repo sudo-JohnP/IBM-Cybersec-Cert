@@ -26,5 +26,6 @@ I will be using this as a space to document my journey as I complete the *IBM Sk
 ## Repo Layout:
   | Folder        | Description |
 |---------------|-------------|
+| `/Activities`   | In-module activities, practice exercises |
 | `/Microcredential`    | Notes and reflections from each course module |
 | `/Projects`   | Capstone write-ups, diagrams, and documentation |
