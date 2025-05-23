@@ -49,6 +49,12 @@ Types of data that should be backed up and an example of each:
   - System data -- Must backup configuration data, updates, etc; necessary to support IT troubleshooting efforts
 
 Type of backup recommended:
+  Since this is a large retail company I would suggest a combination of full and incremental backups. Having full backups once a week, maybe on Sundays and then
+  incremental backups throughout the week. This would allow for smooth operations throughout the week and still support quicker recovery by having weekly full
+  backups. 
+
+Backup storage:
+
 
 
 
