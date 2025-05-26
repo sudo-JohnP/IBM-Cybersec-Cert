@@ -42,7 +42,16 @@ Organizations tend to refer to NISTs Risk Management Framework
   6. Authorize -- Senior's consider risk and decide if they'll authorize systems should operate; This step establishes senior level accountability
   7. Monitor -- Continuously monitor controls and risks
 
-Risk Assessment
+Risk Assessment -- process of identifying risks, evaluating their impacts, and deciding what to do about them
+Risk assessments answer the following:
+  - What are our assets?
+  - What are the risks?
+  - How would those risks impact our organization?
+  - Which risks will we tolerate, and which risks much we plan for?
+Risk Types:
+- External -- outside the organization; ex: attackers, malware, natural disasters
+- Internal -- inside the organization; ex: user mistakes, malicious insiders, equipment failure
+- Multiparty -- impact more than one organization; ex: city-wide power outage, internet or service provider outages
 
 
 
