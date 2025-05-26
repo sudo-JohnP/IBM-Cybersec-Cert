@@ -10,17 +10,43 @@ GRC is a structured way to align business processes/goals with risk recognition 
   Risk -- Exposure of something valuable to damage or loss
   Compliance -- Administrative, Physical, Technical controls that keep business activities aligned w/ laws/standards
 
-G:
+Governance:
+
   - Policies -- Statements about the overall intent of how the company should run
   - Standards/Guidelines -- Specific requirements for a given area/technology
   - Procedures -- Step-by-step processes for implementing standards/guidelines
 
 Documentation is essential if employees are expected to follow policies and procedures; examples below:
-- Acceptable Use Policy (AUP) -- outlines practices/expectations that a user must agree to before giving access to company resources
-- Continuous Monitoring Policy -- 
-- Data Collection Policy -- 
-- Data Classification Policy -- 
-- Data Ownership Policy -- 
-- Data Retention Policy -- 
-- Password Policy -- 
+  - Acceptable Use Policy (AUP) -- outlines practices/expectations that a user must agree to before giving access to company resources
+  - Continuous Monitoring Policy -- outlines the monitoring/awareness efforts for threats and vulnerabilities
+  - Data Collection Policy -- outlines how personal information is collected, used, stored
+  - Data Classification Policy -- outlines how data is classified based on sensitivity
+  - Data Ownership Policy -- outlines responsinilities regarding creation, usage, and quality control of data
+  - Data Retention Policy -- outlines what data should be retained, for how long, and the disposal processes
+  - Password Policy -- outlines login requirements; password reqs, mfa, etc
+
+Risk:
+
+A risk is the extent to which a cyberattack or other event threatens an organizations operations
+  - Consequences -- event's impact and associated damages
+  - Likelihood -- probability the event occurs
+
+Risk Management -- the process of identifying, assessing, and controlling financial, legal, strategic, and security risks to an organizations capital/earnings
+Organizations tend to refer to NISTs Risk Management Framework
+- A 7 step RM process:
+  1. Prepare -- Establish risk mgt processes, identify risks, consider how much risk company can take on
+  2. Categorize -- Categorize systems and data by the harm they would cause to the organization if lost
+  3. Select -- Select the administrative, physical, technical controls needed to protect systems/data; Also select a strategy to monitor these goals
+  4. Implement -- Implement the controls outlined in security plan; document any changes
+  5. Assess -- Assess controls; Assessment plan should identify key people's responsibilities and procedures 
+  6. Authorize -- Senior's consider risk and decide if they'll authorize systems should operate; This step establishes senior level accountability
+  7. Monitor -- Continuously monitor controls and risks
+
+
+
+
+
+
+
+
 
