@@ -31,10 +31,29 @@ risk:
   • Explain why you rated the risk low, moderate, high, or very high.
 
 
+**RISK ASSESSMENT**
 
+1: Identify Risks
+  External risks -- Hurricane; the backup storage location is at risk of destruction in the event of a hurricane.
+                 -- Remote Workers; Low security of home devices/networks can lead to vulnerabilities for malware and attackers
+  Internal risks -- Remote Workers; Failures and IT issues with at-home devices can interfere with operations
 
+2: Consequences/Impacts of each risk
+  Hurricane -- Can lead to destroyed data storage devices, losing data and possibly having further affects on reputation and even legal matters
+  Unsecured home devices/networks -- Can open work networks to vulnerabilities for attackers and malware to exploit, causing downtime, financial loss, etc
+  Equipment failures -- Can delay operations due to the possible delays associated with replacing/fixing at-home equipment, causing operational delays
 
+3: Risk Tolerations
+  Hurricane -- Tolerance: Low -- Frequency: Low -- Risk Rating: Very High
+    Reasoning: A hurricane destroying the data storage location isn't likely to happen often but if it does happen it can be catastrophic to an organization.
 
+  Unsecured home devices/network -- Tolerance: Moderate -- Frequency: Moderate -- Risk Rating: Moderate
+    Reasoning: Difficult to ensure secure home networks but easy to have password requirements. This can have extreme consequences however they can be mitigated
+               by strong security policies/efforts such as EDR softwares, VPN requirements, DNS filtering, MFA, password requirements, etc.
+
+  Equipment failures -- Tolerance: High -- Frequency: Low -- Risk Rating: Low
+    Reasoning: At-home equipment will fail at times, however this is not frequent and unless the organization provides company owned devices, there isn't
+               much that can be done so this risk must be tolerated. 
 
 
 
