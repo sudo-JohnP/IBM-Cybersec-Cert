@@ -53,6 +53,11 @@ Risk Types:
 - Internal -- inside the organization; ex: user mistakes, malicious insiders, equipment failure
 - Multiparty -- impact more than one organization; ex: city-wide power outage, internet or service provider outages
 
+Risk Mitigation:
+- Acceptance -- Accept the risk
+- Transfer -- Transfer some or all of risk to a third party such as insurance
+- Avoidance -- Adjusting operations to avoid certain risks
+- Reduction -- Reducing the risk through technical, physical, administrational controls
 
 
 
