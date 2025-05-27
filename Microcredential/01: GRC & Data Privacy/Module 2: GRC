@@ -10,7 +10,7 @@ GRC is a structured way to align business processes/goals with risk recognition 
   Risk -- Exposure of something valuable to damage or loss
   Compliance -- Administrative, Physical, Technical controls that keep business activities aligned w/ laws/standards
 
-Governance:
+***Governance:
 
   - Policies -- Statements about the overall intent of how the company should run
   - Standards/Guidelines -- Specific requirements for a given area/technology
@@ -25,7 +25,7 @@ Documentation is essential if employees are expected to follow policies and proc
   - Data Retention Policy -- outlines what data should be retained, for how long, and the disposal processes
   - Password Policy -- outlines login requirements; password reqs, mfa, etc
 
-Risk:
+***Risk:
 
 A risk is the extent to which a cyberattack or other event threatens an organizations operations
   - Consequences -- event's impact and associated damages
@@ -58,6 +58,28 @@ Risk Mitigation:
 - Transfer -- Transfer some or all of risk to a third party such as insurance
 - Avoidance -- Adjusting operations to avoid certain risks
 - Reduction -- Reducing the risk through technical, physical, administrative controls
+
+***Compliance:
+
+In cybersecurity, compliance is an organization's adherance to applicable laws, regulations, and standards designed to keep data/systems safe from cyber threats
+
+Laws -- legal requirements, apply to different jurisdictions, when broken result in penalties/fines/other legal consequences
+Regulations -- similar to law but created by govt agencies, not legislators; purpose is to interpret and implement the law
+Standards -- best practices curated by industry experts; not legally required; often followed for reputational, contractual, and compatibility reasons
+
+Some significant laws and regulations:
+- General Data Protection Regulation (GDPR) -- 
+- Health Insurance Portability and Accountability Act (HIPAA) -- 
+- Federal Education Rights and Privacy Act (FERPA) -- 
+- Gramm-Leach-Bliley Act (GLBA) -- 
+- California Consumer Privacy Act (CCPA) -- 
+- NYDFS Cybersecurity Regulation -- 
+
+
+
+
+
+
 
 
 
