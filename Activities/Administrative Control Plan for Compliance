@@ -9,29 +9,51 @@ In this activity, you will create a plan for an administrative control. Use any 
 
 Step 1:
 Select one administrative control that you want to create a plan for from the following list: 
-
-Training
-Job rotation
-Mandatory vacation
+- Training
+- Job rotation
+- Mandatory vacation
 
 Step 2:
 Create a plan that addresses the role of that control in protecting the company’s data and infrastructure. The following list details topics that you
 should cover based on the control you chose: 
 
 Training:
-Explain the cybersecurity onboarding training that employees will take.
-Explain how often employees must complete additional cybersecurity training. Justify your response.
-Describe how you would inform employees about new cyberthreats.
+- Explain the cybersecurity onboarding training that employees will take.
+- Explain how often employees must complete additional cybersecurity training. Justify your response.
+- Describe how you would inform employees about new cyberthreats.
 
 Job rotation:
-Explain how you will cross-train employees so that they can rotate tasks.
-Identify the number of people that will share responsibilities to ensure accountability. Justify your answer.
-Indicate whether you will swap job tasks or roles that involve accessing confidential data. Explain your answer.
+- Explain how you will cross-train employees so that they can rotate tasks.
+- Identify the number of people that will share responsibilities to ensure accountability. Justify your answer.
+- Indicate whether you will swap job tasks or roles that involve accessing confidential data. Explain your answer.
 
 Mandatory vacation:
-Explain the use of mandatory vacation policies.
-Describe the controls you will implement so that when an employee is on vacation for at least five days, their tasks and role in cybersecurity are covered.
-Justify whether you would enact a mandatory vacation policy as an administrative control.
+- Explain the use of mandatory vacation policies.
+- Describe the controls you will implement so that when an employee is on vacation for at least five days, their tasks and role in cybersecurity are covered.
+- Justify whether you would enact a mandatory vacation policy as an administrative control.
+
+
+***Administrative Control Plan for Compliance***
+
+Training Plan for a tech startup:
+
+Cybersecurity onboarding training:
+Employees will be required to attend 3 cybersecurity trainings in their onboarding week. The first onboarding training will cover requirements for MFA and 
+password policies. The second training will cover phishing and similar threats and best practices to help avoid accidents; including proper reporting
+procedures. The third training will cover secure practices for remote workers such as VPN configuration, guidelines, and MDM. 
+
+Additional training frequencies:
+Employees will periodically receive simulated phishing emails and if employees fall for the bait they'llbe required to go through training immediately. All
+employees must renew their training annually. In addition to the annual training, employees will be required to watch a short, 15-minute video reviewing annual
+training topics every 3 months. 
+
+Informing employees of emerging cyberthreats:
+To keep employees informed of cyberthreats, there will be a monthly cybersecurity news letter sent to employees. If it is urgent that employees are informed 
+about a new cyberthreat, an immediate email will be sent along with a meeting being set up. 
+
+
+
+
 
 
 
