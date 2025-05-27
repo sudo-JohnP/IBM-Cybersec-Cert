@@ -68,13 +68,26 @@ Regulations -- similar to law but created by govt agencies, not legislators; pur
 Standards -- best practices curated by industry experts; not legally required; often followed for reputational, contractual, and compatibility reasons
 
 Some significant laws and regulations:
-- General Data Protection Regulation (GDPR) -- 
-- Health Insurance Portability and Accountability Act (HIPAA) -- 
-- Federal Education Rights and Privacy Act (FERPA) -- 
-- Gramm-Leach-Bliley Act (GLBA) -- 
-- California Consumer Privacy Act (CCPA) -- 
-- NYDFS Cybersecurity Regulation -- 
+- General Data Protection Regulation (GDPR) -- Carries out EU privacy laws; applies to any who host EU data or does business with EU countries; dictates how data
+  is collected/stored/monitored/etc
+- Health Insurance Portability and Accountability Act (HIPAA) -- US law; applies to those with access to healthcare records; strict access and disclosure of PHI
+- Federal Education Rights and Privacy Act (FERPA) -- US law; keeps student education records private; regulates schools
+- Gramm-Leach-Bliley Act (GLBA) -- Applies to financial instutuions; requires disclosure of data-sharing practices; must tell customers how they can revoke
+  permissions
+- California Consumer Privacy Act (CCPA) -- Applies to those who do business in CA; Grants CA people the rights to know what data is collected about them,
+  ability to correct/delete/forbid inaccurate private data
+- NYDFS Cybersecurity Regulation -- New York State Dept of Financial Services; Requires companies to perform risk management, maintaining a risk mitigation plan
 
+Important Standards to know:
+- PCI DSS -- Collaboration by large credit card companies; data security standard that must be followed by organizations that store/transmit credit card data
+- IEEE 802 networking standards -- IEEE is internationally trusted and recognized regarding telecommunications and IT standards; industry-standards for securing
+  area networks; these standards cover network access, encryption, and threat detection
+- ISO 27000 and 27001 -- International Organization for Standardization; ISO 2700X standards are relevant to cybersecurity; 27000 is very broad; 27001 covers
+  standards such as assessing risks, creating information security management systems, and deploying security controls
+- NIST -- US federal agency; Standards on all areas of technology; extensive resources for cybersecurity and data privacy
+
+To comply with laws, regs, standards, companies implement risk-based controls to protect the CIA of data
+- Administrative, physical, and technical controls
 
 
 
