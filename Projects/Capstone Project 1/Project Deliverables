@@ -13,16 +13,22 @@ Below are the Project Deliverables
 
 **Backup Plan**
 
+Backup Responsibility:
+  The Information Technology team lead will be responsible for overseeing the backup process, ensuring that all backups are completed. This team lead will
+  also be responsible as updating backup policies/procedures as the organization changes over time. 
 Backup Locations:
-  Following the 3-2-1 rule to ensure accessibility, recovery, and resilience of data, three backup locations will be used. Two of these will be on-site;
-  a hard disk drive backup and a . 
-
-- 3-2-1 rule
-- 3 backups, 2 onsite, 1 offsite
-- Local storage backup and hard disk drive backup on site
-- offsite cloud backup
-- daily differential backups to backup new data while staying efficient with resources
-- IT Team Lead will be responsible for backups
+  Following the 3-2-1 rule to ensure accessibility, recoverability, and resilience of data, three backup locations will be used. Two of these will be on-site;
+  a hard disk drive backup and a local storage server. The third will be an off-site cloud storage backuo. 
+Backup Frequency:
+  Full backups will occur every Sunday at 5pm and differential backups will take place daily at 5pm. These differential backups capture all changes between
+  the time of the backup and the previous backup. This allows for easier, quicker, backups, while also putting less of a load on storage by capturing smaller
+  amounts of data at a time throughout the week. 
+Backup Security Measures:
+  All backups will be encrypted with symmetric encryption. Cloud backups will be protected with end-to-end encryption. Employees will need to use MFA to access
+  backups. Backup access will also be limited using RBAC. 
+Review and Documentation:
+  Backup processes will be reviewed by IT team lead quarterly to ensure all processes are up to date and in compliance with HIPAA regulations. Additionally,
+  all backups must be documented, detailing when backups took place and what data was backed up. 
 
 
 **Data Encryption Suggestions**
