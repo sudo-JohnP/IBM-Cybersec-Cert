@@ -13,6 +13,10 @@ Below are the Project Deliverables
 
 **Backup Plan**
 
+Backup Locations:
+  Following the 3-2-1 rule to ensure accessibility, recovery, and resilience of data, three backup locations will be used. Two of these will be on-site;
+  a hard disk drive backup and a . 
+
 - 3-2-1 rule
 - 3 backups, 2 onsite, 1 offsite
 - Local storage backup and hard disk drive backup on site
