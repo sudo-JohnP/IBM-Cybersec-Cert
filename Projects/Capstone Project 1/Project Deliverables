@@ -23,8 +23,17 @@ Below are the Project Deliverables
 
 **Data Encryption Suggestions**
 
-- full disk encryption for computer
-- asymmetric encryption for emailing sensitive data
-- symmetric encryption for encrypting data during backups
+On-site systems:
+  The example Healthcare Provider has main computers, used on-site for all data entry and storage. Full disk encryption (FDE) should be used to encrypt
+  these systems in whole, protecting all data at rest and preventing unauthorized access to stored data or adjacent systems. FDE encrypts data at rest 
+  so it is useful for encrypting systems in whole, however, other encryption methods will need to be used to encrypt files while systems are running. 
+Emails:
+  Asymetric encryption should be used for sending sensitive data via email. Although it is less efficient, asymetric encryption is more secure
+  than symmetric encryption. With asymmetric encryption, private keys don't have to be shared, eliminating risks for things such as man-in-the-middle
+  interception attacks. 
+Backing up files
+  When backing up data files as systems are running, symmetric encryption should be used. Symmetric encryption allows for the encryption of in-transit
+  data. Symmetric encryption is very fast and efficient so it will allow for operations to continue running as normal, while protecting sensitive data. 
+
 
 
