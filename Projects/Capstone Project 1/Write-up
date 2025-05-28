@@ -1,6 +1,17 @@
-Summary of Capstone P1
-  Objective
-  Tools Used
-  Steps Taken
+Summary of Capstone Project 1:
+
+
+  Objective: 
+             Evaluate the data security posture of an example healthcare provider. Identify and address potential issues in data and information security and 
+             compliance with HIPAA regulations.
+  Tools Used:
+             Data Security Posture Form, HIPAA Requirements List, Backup Plan, Encryption Practices Plan
+  Steps Taken:
+             1. Read about example healthcare provider's current state of security practices/policies
+             2. Read through summaries of relevant HIPAA requirements 
+             3. Answer questions related to the firm's current security posture, filling out a data security posture form 
+                - Include a checklist of compliance and recommendations for each non-compliant item
+                - Develop a backup plan
+                - Create a list of data encryption suggestions
   Challenges encountered
   Lessons Learned
