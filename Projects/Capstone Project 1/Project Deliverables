@@ -1,0 +1,30 @@
+Below are the Project Deliverables
+
+  Including:
+    - Data Security Posture Form with compliance checklist and suggestions
+    - Backup Plan
+    - Data Encryption suggestions
+
+
+**Data Security Posture Form**
+
+-
+
+
+**Backup Plan**
+
+- 3-2-1 rule
+- 3 backups, 2 onsite, 1 offsite
+- Local storage backup and hard disk drive backup on site
+- offsite cloud backup
+- daily differential backups to backup new data while staying efficient with resources
+- IT Team Lead will be responsible for backups
+
+
+**Data Encryption Suggestions**
+
+- full disk encryption for computer
+- asymmetric encryption for emailing sensitive data
+- symmetric encryption for encrypting data during backups
+
+
