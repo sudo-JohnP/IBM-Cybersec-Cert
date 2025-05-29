@@ -9,27 +9,27 @@ Below are the Project Deliverables
 **Data Security Posture Form**
 
 Compliance with HIPAA Security Rule:
-- Reasonable and Appropriate Safeguards -- NOT Compliant -- Organization should encrypt PHI data and restrict access using RBAC and MFA
-- CIA of e-PHI -- NOT Compliant -- In addition to the above, organization should backup data in multiple locations to ensure availability
-- Impermissible Disclosures -- Compliant
-- Workforce Compliance -- Compliant
+  - Reasonable and Appropriate Safeguards --  NOT Compliant  -- Organization should encrypt PHI data and restrict access using RBAC and MFA
+  - CIA of e-PHI --  NOT Compliant  -- In addition to the above, organization should backup data in multiple locations to ensure availability
+  - Impermissible Disclosures --  Compliant
+  - Workforce Compliance --  Compliant
 
 Governance and Oversight:
-- Security Official -- NOT Compliant -- Organization should hire a lead security official to oversee all cybersecurity operations
-- Organizational Policies -- NOT Compliant -- Organization should implement policies/procedures related to prevention, detection, and response
-- Training Programs -- Compliant
-- Data Sharing Policies -- Compliant
+  - Security Official --  NOT Compliant  -- Organization should hire a lead security official to oversee all cybersecurity operations
+  - Organizational Policies --  NOT Compliant  -- Organization should implement policies/procedures related to prevention, detection, and response
+  - Training Programs --  Compliant
+  - Data Sharing Policies --  Compliant
 
 Risk Management:
-- Risk Analysis and Management -- NOT Compliant -- Regular risk analysis reports should become standard and done by a hired cybersecurity lead
-- Regular Risk Assessments -- NOT Compliant -- Regular risk assessments should also become standard
-- Risk Communication -- NOT Compliant -- Cybersecurity lead should communicate all risk related reports to stakeholders at each leavel
+  - Risk Analysis and Management --  NOT Compliant  -- Regular risk analysis reports should become standard and done by a hired cybersecurity lead
+  - Regular Risk Assessments --  NOT Compliant  -- Regular risk assessments should also become standard
+  - Risk Communication --  NOT Compliant  -- Cybersecurity lead should communicate all risk related reports to stakeholders at each level
 
 Other Compliance Areas:
-- Evaluation of Security Measures -- NOT Compliant -- Organization should establish monthly evaluations of organizational security posture
-- Incident Response Plan -- NOT Compliant -- Cybersecurity lead should develop an incident response plan to mitigate risks of cyber attacks
-- Technical Safeguards -- NOT Compliant -- Technical safeguards such as encryption, RBAC, MFA, should be used to protect e-PHI
-- Physical Safeguards -- Compliant
+  - Evaluation of Security Measures --  NOT Compliant  -- Organization should establish monthly evaluations of organizational security posture
+  - Incident Response Plan --  NOT Compliant  -- Cybersecurity lead should develop an incident response plan to mitigate risks of cyber attacks
+  - Technical Safeguards --  NOT Compliant  -- Technical safeguards such as encryption, RBAC, MFA, should be used to protect e-PHI
+  - Physical Safeguards --  Compliant
 
 
 **Backup Plan**
