@@ -3,11 +3,11 @@
 I will be using this as a space to document my journey as I complete the *IBM SkillsBuild Cybersecurity Certificate*
 
 ## In this space I will: 
-  - Capture notes
-  - Build mini projects
-  - Extend Capstone Projects to make for a more complete and hands-on experience
+  - Share activities completed throughout the course
+  - Share and extend Capstone Projects to make for a more complete and hands-on experience
+  - Include write-ups for each project
 
-## Topics Covered (In Progress):
+## Topics Covered:
   - GRC and Data Privacy
   - Vulnerability Management
   - System and Network Security
@@ -27,5 +27,4 @@ I will be using this as a space to document my journey as I complete the *IBM Sk
   | Folder        | Description |
 |---------------|-------------|
 | `/Activities`   | In-module activities, practice exercises |
-| `/Microcredential`    | Notes and reflections from each course module |
 | `/Projects`   | Capstone write-ups, diagrams, and documentation |
