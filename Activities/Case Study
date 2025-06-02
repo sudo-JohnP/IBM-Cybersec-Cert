@@ -1,3 +1,16 @@
-Synnovis Ransomware Attack Case Study:
+Synnovis Ransomware Attack Case Study
+Reflection on the impacts of the cybersecurity incident:
 
+The ransomware attacks on the Synnovis IT infrastructure had both short and long-term effects. In the short-term, the pathology department experienced technical
+drawbacks, being unable to view essential records and blocking communications with the NHS. This prevented them from processing blood tests. In the long-term,
+this ransomware attack led to increased security measures, and has influenced other healthcare providers to take proactive security approaches. Things like
+constant network monitoring, secure identity systems, and response/backout plans in case of incidents have become more popular in the healthcare industry. 
 
+Although the ransomware attack was highly problematic for the healthcare provider, Synnovis, its effects spread beyond the organization as well. Within the 
+organization, employee workloads were increased as employees were forced to find work-arounds to continue operations. The organization also dealt with financial
+losses, an unanticipated resource allocation towards the incident, and a damaged reputation. This story was covered heavily by media, putting Synnovis in a poor
+light. Besides organizational impacts though, patients were heavily impacted as well. Patients weren't able to receive appropriate care in a reasonable time
+due to the technical disruptions. For some, this may not have been much more than an inconvenience. However, for others, these delays could have been very 
+dangerous and even life-threatening. 
+
+Going forwards, Synnovis and other healthcare providers can learn valuable lessons from this event. The healthcare industry
