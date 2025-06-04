@@ -1,0 +1,45 @@
+Develop a physical security control plan for an organization:
+
+Step 1
+As a member of a cybersecurity team, you work for a corporation bidding on a government
+contract. All confidential information must remain onsite. Therefore, the contract prohibits
+saving confidential information to USB flash drives or other removable storage devices usable
+for transporting files offsite.
+The corporation must improve its security measures to prevent this type of data breach.
+Currently, the corporation has the following security measures:
+• The server room is locked. Each IT staff member has a key to the server room.b
+• The door to the shared workspaces is not locked. However, a sign outside this door clearlyb
+states, “Authorized personnel only”, and a receptionist screens all visitors.b
+• All employees have their own usernames and passwords.b
+• All employees have been instructed not to plug USB flash drives or external hard disk drivesb
+into their work computers.b
+Your supervisor tasks you with developing a plan for meeting the contract’s requirements.
+Insert the picture of your plan below. 
+
+Step 2
+Identify at least three new physical controls to implement on the first floor. Use the controls
+and placements that you chose in Step 1.
+Explain your reasoning for each control, including its position. 
+
+Step 3
+Identify three environmental controls to implement on the first floor. These controls must
+minimize the loss of valuable data in the event of a fire, natural disaster, or power failure.
+Explain your reasoning for each choice. 
+
+
+**Response**
+
+Security guards will be stationed at either elevator. A receptionist and security desk will be front and center in the lobby, greeting all who enter. 
+Security cameras will be placed outside the power supply room and outside the server room. A key card scanner will authorize entrance into the hallway
+where the offices and server room are located. The server room will additionaly be protected by a biometric scanner. 
+
+In addition to the above security controls, a few more should be implemented. First there should be an alert system to notify the IT team when a hard 
+drive or USB is olugged in to a computer. Second, an additional security guard should be stationed at the main entrance to the building. Third, employees should
+need key cards to access devices prior to their login credentials. 
+
+
+
+
+
+
+
