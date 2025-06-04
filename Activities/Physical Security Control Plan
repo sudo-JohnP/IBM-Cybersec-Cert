@@ -37,6 +37,8 @@ In addition to the above security controls, a few more should be implemented. Fi
 drive or USB is olugged in to a computer. Second, an additional security guard should be stationed at the main entrance to the building. Third, employees should
 need key cards to access devices prior to their login credentials. 
 
+To address environmental threats, a fire detection and supression system should be set up in the server room. The server room should also be consistantly
+cleaned and kept at a good temperature. Backup generators should be in place to continue operations and protect data in emergency conditions. 
 
 
 
