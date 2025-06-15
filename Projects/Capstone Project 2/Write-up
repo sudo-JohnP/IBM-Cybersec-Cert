@@ -2,7 +2,9 @@ Summary of Capstone Project 2 (XXXXXXXXXXX):
 
 
   Objective: 
-             
+             Perform an impact analysis for a sample small publishing company in DC with the goals of:
+               1. Identify vulnerabilities that the company has
+               2. Apply appropriate threat mitigation tactics to address these vulnerabilities
   Tools Used:
               
   Steps Taken:
