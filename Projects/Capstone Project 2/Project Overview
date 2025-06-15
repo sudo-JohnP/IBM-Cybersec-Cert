@@ -1,8 +1,14 @@
-**XXXXXXXX**
+**Perform Impact Analysis to Address Vulnerabilities**
 
-In this capstone project, I will... 
+In this capstone project, I will perform an impact analysis to address vulnerabilities for a sample small publishing company in DC.
+The two goals of this project are
+  1. Identify vulnerabilities that the company has
+  2. Apply appropriate threat mitigation tactics to address these vulnerabilities
 
 
 Learning objectives, after completing this capstone project, I will be able to: 
 
-
+Evaluate the current state of organizational security
+Analyze the impact of cybersecurity threats on systems and process
+Categorize vulnerabilities by severity to prioritize controls
+Justify threat mitigation tactics
